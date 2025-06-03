@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a Computer Science student at Marist College.
+I'm a Computer Science student at Marist University.
 I would like to learn more about real-world coding practices.
-Currently, I'm working on Software Development II.
+Currently, I'm working on Algorythm design and Operating Systems.
 <!--
 **TimFord13/TimFord13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
