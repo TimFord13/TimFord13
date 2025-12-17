@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a Computer Science and Cybersecurity student at Marist University.
-Currently, I'm working on Algorithm analysis and a browser based operating system project!
+Currently, I'm working on AI generated code research and a browser based operating system project!
 <!--
 **TimFord13/TimFord13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
